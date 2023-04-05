@@ -1,0 +1,12 @@
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\bin\Debug\net7.0\BookPublisher.Model.deps.json
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\bin\Debug\net7.0\BookPublisher.Model.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\bin\Debug\net7.0\BookPublisher.Model.pdb
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\obj\Debug\net7.0\BookPublisher.Model.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\obj\Debug\net7.0\BookPublisher.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\obj\Debug\net7.0\BookPublisher.Model.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\obj\Debug\net7.0\BookPublisher.Model.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\obj\Debug\net7.0\BookPublisher.Model.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\obj\Debug\net7.0\BookPublisher.Model.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\obj\Debug\net7.0\refint\BookPublisher.Model.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\obj\Debug\net7.0\BookPublisher.Model.pdb
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Model\obj\Debug\net7.0\ref\BookPublisher.Model.dll

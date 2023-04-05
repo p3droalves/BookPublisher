@@ -1,0 +1,17 @@
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\bin\Debug\net7.0\BookPublisher.Service.deps.json
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\bin\Debug\net7.0\BookPublisher.Service.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\bin\Debug\net7.0\BookPublisher.Service.pdb
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\bin\Debug\net7.0\BookPublisher.Data.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\bin\Debug\net7.0\BookPublisher.Model.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\bin\Debug\net7.0\BookPublisher.Data.pdb
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\bin\Debug\net7.0\BookPublisher.Model.pdb
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\obj\Debug\net7.0\BookPublisher.Service.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\obj\Debug\net7.0\BookPublisher.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\obj\Debug\net7.0\BookPublisher.Service.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\obj\Debug\net7.0\BookPublisher.Service.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\obj\Debug\net7.0\BookPublisher.Service.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\obj\Debug\net7.0\BookPublisher.Service.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\obj\Debug\net7.0\BookPublisher.Service.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\obj\Debug\net7.0\refint\BookPublisher.Service.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\obj\Debug\net7.0\BookPublisher.Service.pdb
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Service\obj\Debug\net7.0\ref\BookPublisher.Service.dll

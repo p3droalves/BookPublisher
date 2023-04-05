@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\bin\Debug\net7.0\BookPublisher.Data.deps.json
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\bin\Debug\net7.0\BookPublisher.Data.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\bin\Debug\net7.0\BookPublisher.Data.pdb
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\bin\Debug\net7.0\BookPublisher.Model.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\bin\Debug\net7.0\BookPublisher.Model.pdb
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\obj\Debug\net7.0\BookPublisher.Data.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\obj\Debug\net7.0\BookPublisher.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\obj\Debug\net7.0\BookPublisher.Data.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\obj\Debug\net7.0\BookPublisher.Data.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\obj\Debug\net7.0\BookPublisher.Data.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\obj\Debug\net7.0\BookPublisher.Data.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\obj\Debug\net7.0\BookPublisher.Data.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\obj\Debug\net7.0\refint\BookPublisher.Data.dll
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\obj\Debug\net7.0\BookPublisher.Data.pdb
+C:\Users\pedro\OneDrive\Documentos\Facul\AT\BookPublisher\BookPublisher\BookPublisher.Data\obj\Debug\net7.0\ref\BookPublisher.Data.dll
